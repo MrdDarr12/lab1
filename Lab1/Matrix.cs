@@ -6,7 +6,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Lab1
 {
     
     internal class Matrix
